@@ -19,7 +19,7 @@ url: ''
 
 author: 豆腐                 # change to your full name
 
-avatar: https://blog-imgs-134.fc2.com/d/o/u/doufu2019/202001231314522bas.jpg   # 放自己的文件路径或者图片链接
+avatar:    # 放自己的文件路径或者图片链接
 
 github:
   username: github_username             # change to your github username
